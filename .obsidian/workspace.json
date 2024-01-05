@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/4. 스프링 RestAPI만들기/새로 안 정보/요청하는 값이 없을경우(404)만들기.md",
+                "file": "Resource/4. 스프링 RestAPI만들기/오류 정리/@PathVariable SpringBoot 3.2.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/4. 스프링 RestAPI만들기/새로 안 정보/요청하는 값이 없을경우(404)만들기.md",
+                "file": "Resource/4. 스프링 RestAPI만들기/오류 정리/@PathVariable SpringBoot 3.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/4. 스프링 RestAPI만들기/새로 안 정보/요청하는 값이 없을경우(404)만들기.md",
+                "file": "Resource/4. 스프링 RestAPI만들기/오류 정리/@PathVariable SpringBoot 3.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/4. 스프링 RestAPI만들기/새로 안 정보/요청하는 값이 없을경우(404)만들기.md"
+                "file": "Resource/4. 스프링 RestAPI만들기/오류 정리/@PathVariable SpringBoot 3.2.md"
               }
             }
           }
@@ -169,16 +168,17 @@
   },
   "active": "9f18a7342e00c0cb",
   "lastOpenFiles": [
-    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/새로 안 정보.md",
     "Resource/4. 스프링 RestAPI만들기/새로 안 정보/요청하는 값이 없을경우(404)만들기.md",
+    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/새로 안 정보.md",
+    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/@RequestBody.md",
+    "undefined.md",
+    "Vault.md",
     "Resource/4. 스프링 RestAPI만들기/새로 안 정보/ResponseEntity.md",
     "템플릿/새로 안 정보 템플릿.md",
     "템플릿/오류정리템플릿.md",
     "undefined 2.md",
     "Resource/4. 스프링 RestAPI만들기/새로 안 정보/무제 파일 1.md",
     "undefined 1.md",
-    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/@RequestBody.md",
-    "undefined.md",
     "Resource/4. 스프링 RestAPI만들기/새로 안 정보",
     "Resource/4. 스프링 RestAPI만들기/오류 정리/템플릿테스트.md",
     "템플릿",
@@ -198,7 +198,6 @@
     "프로젝트/프로젝트.md",
     "Archive/Archive.md",
     "Spaces/Home/투두리스트.md",
-    "2024-01-04.md",
     "Spaces/Home",
     "Spaces",
     "todoist-backup-20241483013.json",
