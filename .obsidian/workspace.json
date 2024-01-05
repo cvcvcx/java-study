@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "eff1a4b0c2fa115f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b275b4c06fa21bdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59b848b446945ca6",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-todoist",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f18a7342e00c0cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resource/4. 스프링 RestAPI만들기/새로 안 정보/요청하는 값이 없을경우(404)만들기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b852fc8263054d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb6bf8a1e7585411",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78385642bf73ec35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a6f28f4fded9c7c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97c81d3710bffdf1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "c080a921d1ce05cc",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "47b5bbb646e18dc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad0ec582af9f499d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ee514d7fd7b09ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Resource/4. 스프링 RestAPI만들기/새로 안 정보/요청하는 값이 없을경우(404)만들기.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e07b49f6c362c070",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Resource/4. 스프링 RestAPI만들기/새로 안 정보/요청하는 값이 없을경우(404)만들기.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0f69dc23b53ee24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "117da0a469cc04c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Resource/4. 스프링 RestAPI만들기/새로 안 정보/요청하는 값이 없을경우(404)만들기.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 842.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "9f18a7342e00c0cb",
+  "lastOpenFiles": [
+    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/새로 안 정보.md",
+    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/요청하는 값이 없을경우(404)만들기.md",
+    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/ResponseEntity.md",
+    "템플릿/새로 안 정보 템플릿.md",
+    "템플릿/오류정리템플릿.md",
+    "undefined 2.md",
+    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/무제 파일 1.md",
+    "undefined 1.md",
+    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/@RequestBody.md",
+    "undefined.md",
+    "Resource/4. 스프링 RestAPI만들기/새로 안 정보",
+    "Resource/4. 스프링 RestAPI만들기/오류 정리/템플릿테스트.md",
+    "템플릿",
+    "Resource/4. 스프링 RestAPI만들기/오류 정리/@PathVariable SpringBoot 3.2.md",
+    "Resource/4. 스프링 RestAPI만들기/4. 스프링 RestAPI만들기.md",
+    "Resource/4. 스프링 RestAPI만들기/오류 정리/오류 정리.md",
+    "Resource/4. 스프링 RestAPI만들기/오류 정리/.md",
+    "Resource/4. 스프링 RestAPI만들기/무제 파일.md",
+    "Resource/4. 스프링 RestAPI만들기/오류 정리",
+    "Resource/4. 스프링 RestAPI만들기/각종 오류들 정리.md",
+    "Resource/3. 스프링과 jsp로 Todo앱만들기/1. 환경설정.md",
+    "Resource/Resource.md",
+    "Resource/1. 자바 공부 정리/1. 자바 공부 정리.md",
+    "Resource/4. 스프링 RestAPI만들기",
+    "Resource/무제 파일.md",
+    "Area/Area.md",
+    "프로젝트/프로젝트.md",
+    "Archive/Archive.md",
+    "Spaces/Home/투두리스트.md",
+    "2024-01-04.md",
+    "Spaces/Home",
+    "Spaces",
+    "todoist-backup-20241483013.json",
+    "Archive",
+    "Area",
+    "Resource",
+    "1. 자바 공부 정리/Pasted image 20231226192646.png",
+    "자바 공부 정리/Pasted image 20231226193340.png",
+    "자바 공부 정리/Pasted image 20231226193030.png",
+    "자바 공부 정리/Pasted image 20231226191930.png"
+  ]
+}
