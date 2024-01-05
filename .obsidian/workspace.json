@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/4. 스프링 RestAPI만들기/새로 안 정보/예외처리 정보 커스텀하기.md",
+                "file": "Resource/4. 스프링 RestAPI만들기/새로 안 정보/유효성검증하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/4. 스프링 RestAPI만들기/새로 안 정보/예외처리 정보 커스텀하기.md",
+                "file": "Resource/4. 스프링 RestAPI만들기/새로 안 정보/유효성검증하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/4. 스프링 RestAPI만들기/새로 안 정보/예외처리 정보 커스텀하기.md",
+                "file": "Resource/4. 스프링 RestAPI만들기/새로 안 정보/유효성검증하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/4. 스프링 RestAPI만들기/새로 안 정보/예외처리 정보 커스텀하기.md"
+                "file": "Resource/4. 스프링 RestAPI만들기/새로 안 정보/유효성검증하기.md"
               }
             }
           }
@@ -168,8 +168,9 @@
   },
   "active": "9f18a7342e00c0cb",
   "lastOpenFiles": [
-    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/새로 안 정보.md",
     "Resource/4. 스프링 RestAPI만들기/새로 안 정보/예외처리 정보 커스텀하기.md",
+    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/유효성검증하기.md",
+    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/새로 안 정보.md",
     "Resource/4. 스프링 RestAPI만들기/새로 안 정보/.md",
     "Resource/4. 스프링 RestAPI만들기/새로 안 정보/요청하는 값이 없을경우(404)만들기.md",
     "README.md",
@@ -197,7 +198,6 @@
     "Resource/1. 자바 공부 정리/1. 자바 공부 정리.md",
     "Resource/4. 스프링 RestAPI만들기",
     "Resource/무제 파일.md",
-    "Area/Area.md",
     "Spaces/Home",
     "Spaces",
     "todoist-backup-20241483013.json",
