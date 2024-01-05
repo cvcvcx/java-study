@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resource/4. 스프링 RestAPI만들기/새로 안 정보/7.데이터 반환 형식 변경방법.md",
+                "file": "Resource/4. 스프링 RestAPI만들기/새로 안 정보/8. 국제화.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/4. 스프링 RestAPI만들기/새로 안 정보/7.데이터 반환 형식 변경방법.md",
+                "file": "Resource/4. 스프링 RestAPI만들기/새로 안 정보/8. 국제화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/4. 스프링 RestAPI만들기/새로 안 정보/7.데이터 반환 형식 변경방법.md",
+                "file": "Resource/4. 스프링 RestAPI만들기/새로 안 정보/8. 국제화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resource/4. 스프링 RestAPI만들기/새로 안 정보/7.데이터 반환 형식 변경방법.md"
+                "file": "Resource/4. 스프링 RestAPI만들기/새로 안 정보/8. 국제화.md"
               }
             }
           }
@@ -168,8 +168,9 @@
   },
   "active": "9f18a7342e00c0cb",
   "lastOpenFiles": [
-    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/6. OpenAPI, Swagger.md",
     "Resource/4. 스프링 RestAPI만들기/새로 안 정보/7.데이터 반환 형식 변경방법.md",
+    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/8. 국제화.md",
+    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/6. OpenAPI, Swagger.md",
     "Resource/4. 스프링 RestAPI만들기/새로 안 정보/5. 유효성검증하기.md",
     "Resource/4. 스프링 RestAPI만들기/새로 안 정보/4. 예외처리 정보 커스텀하기.md",
     "Resource/4. 스프링 RestAPI만들기/새로 안 정보/3. 요청하는 값이 없을경우(404)만들기.md",
@@ -196,7 +197,6 @@
     "Resource/4. 스프링 RestAPI만들기/오류 정리",
     "Resource/4. 스프링 RestAPI만들기/각종 오류들 정리.md",
     "Resource/3. 스프링과 jsp로 Todo앱만들기/1. 환경설정.md",
-    "Resource/Resource.md",
     "Resource/4. 스프링 RestAPI만들기",
     "Spaces/Home",
     "Spaces",
