@@ -21,7 +21,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "프로젝트"
+                "path": "Resource"
               }
             }
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트/프로젝트.md",
+                "file": "Resource/Resource.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트/프로젝트.md",
+                "file": "Resource/Resource.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트/프로젝트.md"
+                "file": "Resource/Resource.md"
               }
             }
           }
@@ -173,8 +173,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03afed14ad84eb41",
+  "active": "45577423f551acbd",
   "lastOpenFiles": [
+    "무제 파일.md",
+    "프로젝트/프로젝트.md",
     "Resource/Resource.md",
     "Resource/4. 스프링 RestAPI만들기/새로 안 정보/8. 국제화.md",
     "Resource/4. 스프링 RestAPI만들기/새로 안 정보/7.데이터 반환 형식 변경방법.md",
@@ -201,9 +203,7 @@
     "Resource/4. 스프링 RestAPI만들기/4. 스프링 RestAPI만들기.md",
     "Resource/4. 스프링 RestAPI만들기/오류 정리/오류 정리.md",
     "Resource/4. 스프링 RestAPI만들기/오류 정리/.md",
-    "Resource/4. 스프링 RestAPI만들기/무제 파일.md",
     "Resource/4. 스프링 RestAPI만들기/오류 정리",
-    "Resource/4. 스프링 RestAPI만들기/각종 오류들 정리.md",
     "Resource/4. 스프링 RestAPI만들기",
     "Spaces/Home",
     "Spaces",
