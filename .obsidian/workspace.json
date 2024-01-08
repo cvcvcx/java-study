@@ -19,9 +19,11 @@
             "id": "9f18a7342e00c0cb",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Home/알고리즘문제풀이저장"
+                "file": "Spaces/Home/알고리즘문제풀이저장/무제 파일.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -109,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/알고리즘문제풀이저장/알고리즘문제풀이저장.md",
+                "file": "Spaces/Home/알고리즘문제풀이저장/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/알고리즘문제풀이저장/알고리즘문제풀이저장.md",
+                "file": "Spaces/Home/알고리즘문제풀이저장/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/알고리즘문제풀이저장/알고리즘문제풀이저장.md"
+                "file": "Spaces/Home/알고리즘문제풀이저장/무제 파일.md"
               }
             }
           }
@@ -173,11 +175,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "41513acdd18f61f1",
+  "active": "9f18a7342e00c0cb",
   "lastOpenFiles": [
+    "Spaces/Home/알고리즘문제풀이저장/알고리즘문제풀이저장.md",
     "Spaces/Home/Resource/Resource.md",
     "Spaces/Home/알고리즘문제풀이저장/무제 파일.md",
-    "Spaces/Home/알고리즘문제풀이저장/알고리즘문제풀이저장.md",
     "알고리즘 문제풀이 저장/알고리즘 문제풀이 저장.md",
     "알고리즘 문제풀이 저장",
     "undefined.md",
