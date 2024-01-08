@@ -35,7 +35,7 @@
               "state": {
                 "file": "템플릿/1. 알고리즘 문제풀이 템플릿.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -186,12 +186,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c09ec5a92c5dd6a2",
+  "active": "78385642bf73ec35",
   "lastOpenFiles": [
-    "2024-01-08.md",
+    "템플릿/오류정리템플릿.md",
     "템플릿/1. 알고리즘 문제풀이 템플릿.md",
     "템플릿/새로 안 정보 템플릿.md",
-    "템플릿/오류정리템플릿.md",
+    "2024-01-08.md",
     "Spaces/Home/알고리즘문제풀이저장/1936. 1대1가위바위보.md",
     "undefined.md",
     "Spaces/Home/알고리즘문제풀이저장/알고리즘문제풀이저장.md",
