@@ -19,10 +19,8 @@
             "id": "9f18a7342e00c0cb",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Spaces/Home"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -171,11 +169,17 @@
   },
   "active": "45577423f551acbd",
   "lastOpenFiles": [
+    "알고리즘 문제풀이 저장/알고리즘 문제풀이 저장.md",
+    "Spaces/Home/Resource/Resource.md",
+    "알고리즘 문제풀이 저장",
+    "undefined.md",
+    "무제 파일.md",
+    "알고리즘문제풀이저장/무제 파일.md",
+    "알고리즘문제풀이저장/알고리즘문제풀이저장.md",
+    "알고리즘문제풀이저장",
     "Spaces/Home/무제 파일.md",
     "Spaces/Spaces.md",
     "Vault.md",
-    "Spaces/Home/Resource/Resource.md",
-    "무제 파일.md",
     "프로젝트/프로젝트.md",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/8. 국제화.md",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/7.데이터 반환 형식 변경방법.md",
@@ -189,24 +193,18 @@
     "Resource/4. 스프링 RestAPI만들기/새로 안 정보/.md",
     "README.md",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/오류 정리/@PathVariable SpringBoot 3.2.md",
-    "undefined.md",
     "템플릿/새로 안 정보 템플릿.md",
     "템플릿/오류정리템플릿.md",
     "undefined 2.md",
     "Resource/4. 스프링 RestAPI만들기/새로 안 정보/무제 파일 1.md",
-    "undefined 1.md",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보",
-    "Spaces/Home/Resource/4. 스프링 RestAPI만들기/오류 정리/템플릿테스트.md",
     "템플릿",
-    "Resource/4. 스프링 RestAPI만들기/4. 스프링 RestAPI만들기.md",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/오류 정리",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기",
     "Spaces/Home",
     "Spaces",
     "todoist-backup-20241483013.json",
     "Archive",
-    "Area",
-    "Spaces/Home/Resource",
     "1. 자바 공부 정리/Pasted image 20231226192646.png",
     "자바 공부 정리/Pasted image 20231226193340.png",
     "자바 공부 정리/Pasted image 20231226193030.png",
