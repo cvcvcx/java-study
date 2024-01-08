@@ -31,9 +31,11 @@
             "id": "c09ec5a92c5dd6a2",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Home/알고리즘문제풀이저장"
+                "file": "Spaces/Home/알고리즘문제풀이저장/1936. 1대1가위바위보.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -113,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/알고리즘문제풀이저장/알고리즘문제풀이저장.md",
+                "file": "Spaces/Home/알고리즘문제풀이저장/1936. 1대1가위바위보.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/알고리즘문제풀이저장/알고리즘문제풀이저장.md",
+                "file": "Spaces/Home/알고리즘문제풀이저장/1936. 1대1가위바위보.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/알고리즘문제풀이저장/알고리즘문제풀이저장.md"
+                "file": "Spaces/Home/알고리즘문제풀이저장/1936. 1대1가위바위보.md"
               }
             }
           }
@@ -177,8 +179,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fbc34293833f5376",
+  "active": "c09ec5a92c5dd6a2",
   "lastOpenFiles": [
+    "Spaces/Home/알고리즘문제풀이저장/알고리즘문제풀이저장.md",
     "Spaces/Home/알고리즘문제풀이저장/2063. 중간값 찾기.md",
     "Spaces/Home/알고리즘문제풀이저장/2058. 자릿수더하기.md",
     "Spaces/Home/알고리즘문제풀이저장/1936. 1대1가위바위보.md",
@@ -186,7 +189,6 @@
     "템플릿/3. 오류정리템플릿.md",
     "Spaces/Home/알고리즘문제풀이저장/.md",
     "Spaces/Home/Resource/Resource.md",
-    "Spaces/Home/알고리즘문제풀이저장/알고리즘문제풀이저장.md",
     "템플릿/2. 새로 안 정보 템플릿.md",
     "2024-01-08.md",
     "undefined.md",
