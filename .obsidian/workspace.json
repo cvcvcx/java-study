@@ -31,9 +31,11 @@
             "id": "c09ec5a92c5dd6a2",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Home/Resource"
+                "file": "Spaces/Home/알고리즘문제풀이저장/1936. 1대1가위바위보.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -113,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Home/알고리즘문제풀이저장/1936. 1대1가위바위보.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Home/알고리즘문제풀이저장/1936. 1대1가위바위보.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Home/알고리즘문제풀이저장/1936. 1대1가위바위보.md"
+              }
             }
           }
         ],
