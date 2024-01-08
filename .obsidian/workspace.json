@@ -81,8 +81,17 @@
               "type": "mk-path-view",
               "state": {}
             }
+          },
+          {
+            "id": "45577423f551acbd",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
