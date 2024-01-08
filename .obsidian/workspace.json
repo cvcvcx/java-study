@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/알고리즘문제풀이저장/무제 파일.md",
+                "file": "Spaces/Home/알고리즘문제풀이저장/1936. 1대1가위바위보.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/알고리즘문제풀이저장/무제 파일.md",
+                "file": "Spaces/Home/알고리즘문제풀이저장/1936. 1대1가위바위보.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/알고리즘문제풀이저장/무제 파일.md",
+                "file": "Spaces/Home/알고리즘문제풀이저장/1936. 1대1가위바위보.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/알고리즘문제풀이저장/무제 파일.md"
+                "file": "Spaces/Home/알고리즘문제풀이저장/1936. 1대1가위바위보.md"
               }
             }
           }
@@ -177,9 +176,10 @@
   },
   "active": "9f18a7342e00c0cb",
   "lastOpenFiles": [
+    "템플릿/무제 파일.md",
+    "Spaces/Home/알고리즘문제풀이저장/1936. 1대1가위바위보.md",
     "Spaces/Home/알고리즘문제풀이저장/알고리즘문제풀이저장.md",
     "Spaces/Home/Resource/Resource.md",
-    "Spaces/Home/알고리즘문제풀이저장/무제 파일.md",
     "알고리즘 문제풀이 저장/알고리즘 문제풀이 저장.md",
     "알고리즘 문제풀이 저장",
     "undefined.md",
@@ -204,7 +204,6 @@
     "템플릿/새로 안 정보 템플릿.md",
     "템플릿/오류정리템플릿.md",
     "undefined 2.md",
-    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/무제 파일 1.md",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보",
     "템플릿",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/오류 정리",
