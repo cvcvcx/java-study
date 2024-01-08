@@ -33,7 +33,7 @@
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "@알고리즘 문제풀이 저장.md"
+                "file": "Spaces/Home/알고리즘문제풀이저장/@알고리즘 문제풀이 저장.md"
               }
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@알고리즘 문제풀이 저장.md",
+                "file": "Spaces/Home/알고리즘문제풀이저장/@알고리즘 문제풀이 저장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@알고리즘 문제풀이 저장.md",
+                "file": "Spaces/Home/알고리즘문제풀이저장/@알고리즘 문제풀이 저장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@알고리즘 문제풀이 저장.md"
+                "file": "Spaces/Home/알고리즘문제풀이저장/@알고리즘 문제풀이 저장.md"
               }
             }
           }
@@ -180,7 +180,7 @@
   },
   "active": "c09ec5a92c5dd6a2",
   "lastOpenFiles": [
-    "@알고리즘 문제풀이 저장.md",
+    "Spaces/Home/알고리즘문제풀이저장/@알고리즘 문제풀이 저장.md",
     "Spaces/Home/알고리즘문제풀이저장/알고리즘문제풀이저장.md",
     "Spaces/Home/알고리즘문제풀이저장/2063. 중간값 찾기.md",
     "Spaces/Home/알고리즘문제풀이저장/2058. 자릿수더하기.md",
