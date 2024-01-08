@@ -21,7 +21,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Resource"
+                "path": "Spaces/Home"
               }
             }
           }
@@ -109,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resource/Resource.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resource/Resource.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Resource/Resource.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -175,42 +171,42 @@
   },
   "active": "45577423f551acbd",
   "lastOpenFiles": [
+    "Spaces/Home/무제 파일.md",
+    "Spaces/Spaces.md",
+    "Vault.md",
+    "Spaces/Home/Resource/Resource.md",
     "무제 파일.md",
     "프로젝트/프로젝트.md",
-    "Resource/Resource.md",
-    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/8. 국제화.md",
-    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/7.데이터 반환 형식 변경방법.md",
-    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/6. OpenAPI, Swagger.md",
-    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/5. 유효성검증하기.md",
-    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/4. 예외처리 정보 커스텀하기.md",
-    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/3. 요청하는 값이 없을경우(404)만들기.md",
-    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/2. @RequestBody.md",
-    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/1. ResponseEntity.md",
-    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/새로 안 정보.md",
+    "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/8. 국제화.md",
+    "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/7.데이터 반환 형식 변경방법.md",
+    "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/6. OpenAPI, Swagger.md",
+    "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/5. 유효성검증하기.md",
+    "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/4. 예외처리 정보 커스텀하기.md",
+    "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/3. 요청하는 값이 없을경우(404)만들기.md",
+    "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/2. @RequestBody.md",
+    "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/1. ResponseEntity.md",
+    "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/새로 안 정보.md",
     "Resource/4. 스프링 RestAPI만들기/새로 안 정보/.md",
     "README.md",
-    "Resource/4. 스프링 RestAPI만들기/오류 정리/@PathVariable SpringBoot 3.2.md",
+    "Spaces/Home/Resource/4. 스프링 RestAPI만들기/오류 정리/@PathVariable SpringBoot 3.2.md",
     "undefined.md",
-    "Vault.md",
     "템플릿/새로 안 정보 템플릿.md",
     "템플릿/오류정리템플릿.md",
     "undefined 2.md",
     "Resource/4. 스프링 RestAPI만들기/새로 안 정보/무제 파일 1.md",
     "undefined 1.md",
-    "Resource/4. 스프링 RestAPI만들기/새로 안 정보",
-    "Resource/4. 스프링 RestAPI만들기/오류 정리/템플릿테스트.md",
+    "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보",
+    "Spaces/Home/Resource/4. 스프링 RestAPI만들기/오류 정리/템플릿테스트.md",
     "템플릿",
     "Resource/4. 스프링 RestAPI만들기/4. 스프링 RestAPI만들기.md",
-    "Resource/4. 스프링 RestAPI만들기/오류 정리/오류 정리.md",
-    "Resource/4. 스프링 RestAPI만들기/오류 정리/.md",
-    "Resource/4. 스프링 RestAPI만들기/오류 정리",
-    "Resource/4. 스프링 RestAPI만들기",
+    "Spaces/Home/Resource/4. 스프링 RestAPI만들기/오류 정리",
+    "Spaces/Home/Resource/4. 스프링 RestAPI만들기",
     "Spaces/Home",
     "Spaces",
     "todoist-backup-20241483013.json",
     "Archive",
     "Area",
-    "Resource",
+    "Spaces/Home/Resource",
     "1. 자바 공부 정리/Pasted image 20231226192646.png",
     "자바 공부 정리/Pasted image 20231226193340.png",
     "자바 공부 정리/Pasted image 20231226193030.png",
