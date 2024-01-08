@@ -33,9 +33,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "템플릿/무제 파일.md",
+                "file": "템플릿/1. 알고리즘 문제풀이 템플릿.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "템플릿/무제 파일.md",
+                "file": "템플릿/1. 알고리즘 문제풀이 템플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "템플릿/무제 파일.md",
+                "file": "템플릿/1. 알고리즘 문제풀이 템플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "템플릿/무제 파일.md"
+                "file": "템플릿/1. 알고리즘 문제풀이 템플릿.md"
               }
             }
           }
@@ -186,14 +186,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78385642bf73ec35",
+  "active": "c09ec5a92c5dd6a2",
   "lastOpenFiles": [
+    "2024-01-08.md",
+    "템플릿/1. 알고리즘 문제풀이 템플릿.md",
     "템플릿/새로 안 정보 템플릿.md",
-    "템플릿/무제 파일.md",
     "템플릿/오류정리템플릿.md",
     "Spaces/Home/알고리즘문제풀이저장/1936. 1대1가위바위보.md",
     "undefined.md",
-    "템플릿/무제 파일.md",
     "Spaces/Home/알고리즘문제풀이저장/알고리즘문제풀이저장.md",
     "Spaces/Home/Resource/Resource.md",
     "알고리즘 문제풀이 저장/알고리즘 문제풀이 저장.md",
@@ -215,7 +215,6 @@
     "Resource/4. 스프링 RestAPI만들기/새로 안 정보/.md",
     "README.md",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/오류 정리/@PathVariable SpringBoot 3.2.md",
-    "undefined 2.md",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보",
     "템플릿",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/오류 정리",
