@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/알고리즘문제풀이저장/2072. 홀수만 더하기.md",
+                "file": "Spaces/Home/프로그래밍과 논리/1. 논리와 증명.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/알고리즘문제풀이저장/2072. 홀수만 더하기.md",
+                "file": "Spaces/Home/프로그래밍과 논리/1. 논리와 증명.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/알고리즘문제풀이저장/2072. 홀수만 더하기.md",
+                "file": "Spaces/Home/프로그래밍과 논리/1. 논리와 증명.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/알고리즘문제풀이저장/2072. 홀수만 더하기.md"
+                "file": "Spaces/Home/프로그래밍과 논리/1. 논리와 증명.md"
               }
             }
           }
@@ -161,8 +161,12 @@
   },
   "active": "9f18a7342e00c0cb",
   "lastOpenFiles": [
-    "Spaces/Home/알고리즘문제풀이저장/무제 파일 1.md",
+    "Spaces/Home/프로그래밍과 논리/프로그래밍과 논리.md",
+    "Spaces/Home/프로그래밍과 논리/1. 논리와 증명.md",
     "Spaces/Home/알고리즘문제풀이저장/2072. 홀수만 더하기.md",
+    "Spaces/Home/프로그래밍과 논리",
+    "Spaces/Home/무제 파일.md",
+    "Spaces/Home/알고리즘문제풀이저장/무제 파일 1.md",
     "Spaces/Home/알고리즘문제풀이저장/알고리즘문제풀이저장.md",
     "Spaces/Home/알고리즘문제풀이저장/2072. 홀수만더하기.md",
     "Spaces/Home/알고리즘문제풀이저장/2068. 최대수 구하기.md",
@@ -180,15 +184,12 @@
     "알고리즘 문제풀이 저장/알고리즘 문제풀이 저장.md",
     "알고리즘 문제풀이 저장",
     "Spaces/Home/알고리즘문제풀이저장",
-    "Spaces/Home/무제 파일.md",
     "Spaces/Spaces.md",
     "Vault.md",
     "프로젝트/프로젝트.md",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/8. 국제화.md",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/7.데이터 반환 형식 변경방법.md",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/6. OpenAPI, Swagger.md",
-    "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/5. 유효성검증하기.md",
-    "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/4. 예외처리 정보 커스텀하기.md",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보",
     "템플릿",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/오류 정리",
@@ -196,7 +197,6 @@
     "Spaces/Home",
     "Spaces",
     "todoist-backup-20241483013.json",
-    "Archive",
     "1. 자바 공부 정리/Pasted image 20231226192646.png",
     "자바 공부 정리/Pasted image 20231226193340.png",
     "자바 공부 정리/Pasted image 20231226193030.png",
