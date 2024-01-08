@@ -11,9 +11,11 @@
             "id": "9f18a7342e00c0cb",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Home/알고리즘문제풀이저장"
+                "file": "Spaces/Home/알고리즘문제풀이저장/2068. 최대수 구하기.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Spaces/Home/알고리즘문제풀이저장/2068. 최대수 구하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Spaces/Home/알고리즘문제풀이저장/2068. 최대수 구하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "Spaces/Home/알고리즘문제풀이저장/2068. 최대수 구하기.md"
               }
             }
           }
@@ -157,10 +159,10 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "28fb84a7015bd742",
+  "active": "9f18a7342e00c0cb",
   "lastOpenFiles": [
+    "Spaces/Home/알고리즘문제풀이저장/2068. 최대수 구하기.md",
     "Spaces/Home/알고리즘문제풀이저장/알고리즘문제풀이저장.md",
-    "무제 파일.md",
     "템플릿/1. 알고리즘 문제풀이 템플릿.md",
     "템플릿/3. 오류정리템플릿.md",
     "Spaces/Home/알고리즘문제풀이저장/2063. 중간값 찾기.md",
