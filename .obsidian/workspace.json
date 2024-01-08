@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,16 +175,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f18a7342e00c0cb",
+  "active": "c080a921d1ce05cc",
   "lastOpenFiles": [
-    "템플릿/무제 파일.md",
+    "undefined.md",
+    "무제 파일.md",
     "Spaces/Home/알고리즘문제풀이저장/1936. 1대1가위바위보.md",
+    "템플릿/무제 파일.md",
     "Spaces/Home/알고리즘문제풀이저장/알고리즘문제풀이저장.md",
     "Spaces/Home/Resource/Resource.md",
     "알고리즘 문제풀이 저장/알고리즘 문제풀이 저장.md",
     "알고리즘 문제풀이 저장",
-    "undefined.md",
-    "무제 파일.md",
     "Spaces/Home/알고리즘문제풀이저장",
     "Spaces/Home/무제 파일.md",
     "Spaces/Spaces.md",

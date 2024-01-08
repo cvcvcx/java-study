@@ -18,7 +18,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "Spaces/Home",
+  "activeView": "/",
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
@@ -97,7 +97,8 @@
   "folderFrameFile": "frames",
   "spacesFolder": "Spaces",
   "hiddenFiles": [
-    "Excalidraw"
+    "Excalidraw",
+    "undefined.md"
   ],
   "hiddenExtensions": [
     ".mdb"
