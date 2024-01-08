@@ -31,9 +31,9 @@
             "id": "c09ec5a92c5dd6a2",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "database-plugin",
               "state": {
-                "path": "Spaces/Home/알고리즘문제풀이저장"
+                "file": "@알고리즘 문제풀이 저장.md"
               }
             }
           }
@@ -113,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "@알고리즘 문제풀이 저장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "@알고리즘 문제풀이 저장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "@알고리즘 문제풀이 저장.md"
+              }
             }
           }
         ],
@@ -170,11 +174,13 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "dbfolder:Create a new database table": false
     }
   },
   "active": "c09ec5a92c5dd6a2",
   "lastOpenFiles": [
+    "@알고리즘 문제풀이 저장.md",
     "Spaces/Home/알고리즘문제풀이저장/알고리즘문제풀이저장.md",
     "Spaces/Home/알고리즘문제풀이저장/2063. 중간값 찾기.md",
     "Spaces/Home/알고리즘문제풀이저장/2058. 자릿수더하기.md",
@@ -202,7 +208,6 @@
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/2. @RequestBody.md",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/1. ResponseEntity.md",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/새로 안 정보.md",
-    "Resource/4. 스프링 RestAPI만들기/새로 안 정보/.md",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보",
     "템플릿",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/오류 정리",
