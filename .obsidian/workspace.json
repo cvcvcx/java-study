@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/프로그래밍과 논리/3. 당구공 Paradox.md",
+                "file": "Spaces/Home/프로그래밍과 논리/5. 수학적 귀납법.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/프로그래밍과 논리/3. 당구공 Paradox.md",
+                "file": "Spaces/Home/프로그래밍과 논리/5. 수학적 귀납법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/프로그래밍과 논리/3. 당구공 Paradox.md",
+                "file": "Spaces/Home/프로그래밍과 논리/5. 수학적 귀납법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/프로그래밍과 논리/3. 당구공 Paradox.md"
+                "file": "Spaces/Home/프로그래밍과 논리/5. 수학적 귀납법.md"
               }
             }
           }
@@ -170,6 +170,8 @@
   },
   "active": "9f18a7342e00c0cb",
   "lastOpenFiles": [
+    "Spaces/Home/프로그래밍과 논리/4. Infinitely Many Prime Numbers.md",
+    "Spaces/Home/프로그래밍과 논리/5. 수학적 귀납법.md",
     "Spaces/Home/프로그래밍과 논리/프로그래밍과 논리.md",
     "Spaces/Home/프로그래밍과 논리/3. 당구공 Paradox.md",
     "Spaces/Home/프로그래밍과 논리/2. 용어 정리 및 문제풀이.md",
@@ -196,8 +198,6 @@
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/8. 국제화.md",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/7.데이터 반환 형식 변경방법.md",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/6. OpenAPI, Swagger.md",
-    "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/5. 유효성검증하기.md",
-    "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/4. 예외처리 정보 커스텀하기.md",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/오류 정리",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보",
     "Spaces/Home/Resource/2. 스프링 공부 정리/3. 스프링 JPA",
