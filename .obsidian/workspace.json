@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/프로그래밍과 논리/수학적 귀납법 문제들/2. 연습 문제.md",
+                "file": "Spaces/Home/프로그래밍과 논리/프로그래밍과 논리 문제들/3. 논리와 증명_수와_표현.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/프로그래밍과 논리/수학적 귀납법 문제들/2. 연습 문제.md",
+                "file": "Spaces/Home/프로그래밍과 논리/프로그래밍과 논리 문제들/3. 논리와 증명_수와_표현.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/프로그래밍과 논리/수학적 귀납법 문제들/2. 연습 문제.md",
+                "file": "Spaces/Home/프로그래밍과 논리/프로그래밍과 논리 문제들/3. 논리와 증명_수와_표현.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/프로그래밍과 논리/수학적 귀납법 문제들/2. 연습 문제.md"
+                "file": "Spaces/Home/프로그래밍과 논리/프로그래밍과 논리 문제들/3. 논리와 증명_수와_표현.md"
               }
             }
           }
@@ -197,20 +197,21 @@
   },
   "active": "a0e5119ebb1992af",
   "lastOpenFiles": [
-    "Spaces/Home/프로그래밍과 논리/수학적 귀납법 문제들/1. 버블 소팅의 증명.md",
-    "Spaces/Home/프로그래밍과 논리/수학적 귀납법 문제들/2. 연습 문제.md",
-    "Spaces/Home/프로그래밍과 논리/수학적 귀납법 문제들/@수학적귀납법 문제.md",
+    "Spaces/Home/프로그래밍과 논리/프로그래밍과 논리 문제들/3. 논리와 증명_수와_표현.md",
+    "Spaces/Home/프로그래밍과 논리/2. 용어 정리 및 문제풀이.md",
+    "Spaces/Home/프로그래밍과 논리/프로그래밍과 논리.md",
+    "Spaces/Home/프로그래밍과 논리/5. 수학적 귀납법.md",
+    "Spaces/Home/프로그래밍과 논리/프로그래밍과 논리 문제들/수학적 귀납법 문제들.md",
+    "Spaces/Home/프로그래밍과 논리/프로그래밍과 논리 문제들/@프로그래밍과 논리 문제.md",
+    "Spaces/Home/프로그래밍과 논리/프로그래밍과 논리 문제들/2. 연습 문제.md",
+    "Spaces/Home/프로그래밍과 논리/프로그래밍과 논리 문제들/1. 버블 소팅의 증명.md",
     "Spaces/Home/프로그래밍과 논리/수학적 귀납법 문제들/@수학적 귀납법 문제들 DB.md",
     "수학적귀납법문제.md",
     "Spaces/Home/프로그래밍과 논리/4. Infinitely Many Prime Numbers.md",
-    "Spaces/Home/프로그래밍과 논리/5. 수학적 귀납법.md",
-    "Spaces/Home/프로그래밍과 논리/수학적 귀납법 문제들/수학적 귀납법 문제들.md",
     "템플릿/4. 수학적 귀납법 문제 템플릿.md",
-    "Spaces/Home/프로그래밍과 논리/프로그래밍과 논리.md",
-    "Spaces/Home/프로그래밍과 논리/수학적 귀납법 문제들",
+    "Spaces/Home/프로그래밍과 논리/프로그래밍과 논리 문제들",
     "Spaces/Home/프로그래밍과 논리/무제 파일.md",
     "Excalidraw/Drawing 2024-01-10 12.03.27.excalidraw.md",
-    "Spaces/Home/프로그래밍과 논리/2. 용어 정리 및 문제풀이.md",
     "Spaces/Home/Home.md",
     "Spaces/Home/프로그래밍과 논리/3. 당구공 Paradox.md",
     "Spaces/Home/프로그래밍과 논리/1. 논리와 증명.md",
@@ -223,7 +224,6 @@
     "템플릿/3. 오류정리템플릿.md",
     "템플릿/2. 새로 안 정보 템플릿.md",
     "템플릿/1. 알고리즘 문제풀이 템플릿.md",
-    "undefined.md",
     "Spaces/Home/프로그래밍과 논리",
     "Spaces/Home/알고리즘문제풀이저장",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/오류 정리",
