@@ -4,37 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "b275b4c06fa21bdd",
-        "type": "tabs",
-        "dimension": 48.23588709677419,
-        "children": [
-          {
-            "id": "59b848b446945ca6",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-todoist",
-              "state": {}
-            }
-          },
-          {
-            "id": "d10af438179a80c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "3ae2619b6eff84c2",
         "type": "tabs",
-        "dimension": 51.764112903225815,
         "children": [
           {
             "id": "1451b57b3b4a9fb3",
@@ -43,8 +14,21 @@
               "type": "custom-frames-chatgpt",
               "state": {}
             }
+          },
+          {
+            "id": "7319ea5ed232568c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resource/프로그래밍과 논리/프로그래밍과 논리 문제들/3. 논리와 증명_수와_표현.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Home.md",
+                "file": "Resource/프로그래밍과 논리/프로그래밍과 논리 문제들/3. 논리와 증명_수와_표현.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Home.md",
+                "file": "Resource/프로그래밍과 논리/프로그래밍과 논리 문제들/3. 논리와 증명_수와_표현.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Home.md"
+                "file": "Resource/프로그래밍과 논리/프로그래밍과 논리 문제들/3. 논리와 증명_수와_표현.md"
               }
             }
           }
@@ -175,44 +158,44 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "97c81d3710bffdf1",
+  "active": "7319ea5ed232568c",
   "lastOpenFiles": [
+    "Resource/프로그래밍과 논리/프로그래밍과 논리 문제들/2. 연습 문제.md",
+    "Resource/프로그래밍과 논리/프로그래밍과 논리 문제들/3. 논리와 증명_수와_표현.md",
+    "Resource/프로그래밍과 논리/프로그래밍과 논리 문제들/수학적 귀납법 문제들.md",
+    "Resource/프로그래밍과 논리/프로그래밍과 논리.md",
+    "Resource/Resource.md",
+    "Spaces/Spaces.md",
     "Spaces/Home/Home.md",
     "템플릿/4. 수학적 귀납법 문제 템플릿.md",
-    "Spaces/Home/프로그래밍과 논리/프로그래밍과 논리 문제들/3. 논리와 증명_수와_표현.md",
     "템플릿/1. 알고리즘 문제풀이 템플릿.md",
     "템플릿/2. 새로 안 정보 템플릿.md",
     "템플릿/3. 오류정리템플릿.md",
-    "Spaces/Home/프로그래밍과 논리/5. 수학적 귀납법.md",
-    "Spaces/Home/프로그래밍과 논리/2. 용어 정리 및 문제풀이.md",
-    "Spaces/Home/프로그래밍과 논리/프로그래밍과 논리.md",
-    "Spaces/Home/프로그래밍과 논리/프로그래밍과 논리 문제들/수학적 귀납법 문제들.md",
-    "Spaces/Home/프로그래밍과 논리/프로그래밍과 논리 문제들/@프로그래밍과 논리 문제.md",
-    "Spaces/Home/프로그래밍과 논리/프로그래밍과 논리 문제들/2. 연습 문제.md",
-    "Spaces/Home/프로그래밍과 논리/프로그래밍과 논리 문제들/1. 버블 소팅의 증명.md",
+    "Resource/프로그래밍과 논리/5. 수학적 귀납법.md",
+    "Resource/프로그래밍과 논리/2. 용어 정리 및 문제풀이.md",
+    "Resource/프로그래밍과 논리/프로그래밍과 논리 문제들/@프로그래밍과 논리 문제.md",
+    "Resource/프로그래밍과 논리/프로그래밍과 논리 문제들/1. 버블 소팅의 증명.md",
     "Spaces/Home/프로그래밍과 논리/수학적 귀납법 문제들/@수학적 귀납법 문제들 DB.md",
     "수학적귀납법문제.md",
-    "Spaces/Home/프로그래밍과 논리/4. Infinitely Many Prime Numbers.md",
-    "Spaces/Home/프로그래밍과 논리/프로그래밍과 논리 문제들",
+    "Resource/프로그래밍과 논리/4. Infinitely Many Prime Numbers.md",
+    "Resource/프로그래밍과 논리/프로그래밍과 논리 문제들",
     "Spaces/Home/프로그래밍과 논리/무제 파일.md",
     "Excalidraw/Drawing 2024-01-10 12.03.27.excalidraw.md",
-    "Spaces/Home/프로그래밍과 논리/3. 당구공 Paradox.md",
-    "Spaces/Home/프로그래밍과 논리/1. 논리와 증명.md",
-    "Spaces/Home/알고리즘문제풀이저장/알고리즘문제풀이저장.md",
-    "Spaces/Home/알고리즘문제풀이저장/@알고리즘 문제풀이 저장.md",
-    "Spaces/Home/알고리즘문제풀이저장/2072. 홀수만더하기.md",
-    "Spaces/Home/알고리즘문제풀이저장/1936. 1대1가위바위보.md",
-    "conflict-files-obsidian-git.md",
-    "Resource/Resource.md",
-    "Spaces/Home/프로그래밍과 논리",
-    "Spaces/Home/알고리즘문제풀이저장",
-    "Resource 1/4. 스프링 RestAPI만들기/오류 정리",
-    "Resource 1/4. 스프링 RestAPI만들기/새로 안 정보",
-    "Resource 1/2. 스프링 공부 정리/3. 스프링 JPA",
-    "Resource 1/2. 스프링 공부 정리/2. 스프링 JDBC",
-    "Resource 1/2. 스프링 공부 정리/1. 스프링",
-    "Resource 1/1. 자바 공부 정리/6. 함수형 프로그래밍",
-    "Resource 1/1. 자바 공부 정리/5. 제네릭",
+    "Resource/프로그래밍과 논리/3. 당구공 Paradox.md",
+    "Resource/프로그래밍과 논리/1. 논리와 증명.md",
+    "Resource/알고리즘문제풀이저장/알고리즘문제풀이저장.md",
+    "Resource/알고리즘문제풀이저장/@알고리즘 문제풀이 저장.md",
+    "Resource/알고리즘문제풀이저장/2072. 홀수만더하기.md",
+    "Resource/알고리즘문제풀이저장/1936. 1대1가위바위보.md",
+    "Resource/프로그래밍과 논리",
+    "Resource/알고리즘문제풀이저장",
+    "Resource/4. 스프링 RestAPI만들기/오류 정리",
+    "Resource/4. 스프링 RestAPI만들기/새로 안 정보",
+    "Resource/2. 스프링 공부 정리/3. 스프링 JPA",
+    "Resource/2. 스프링 공부 정리/2. 스프링 JDBC",
+    "Resource/2. 스프링 공부 정리/1. 스프링",
+    "Resource/1. 자바 공부 정리/6. 함수형 프로그래밍",
+    "Resource/1. 자바 공부 정리/5. 제네릭",
     "1. 자바 공부 정리/Pasted image 20231226192646.png",
     "자바 공부 정리/Pasted image 20231226193340.png",
     "자바 공부 정리/Pasted image 20231226193030.png",
