@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/프로그래밍과 논리/5. 수학적 귀납법.md",
+                "file": "Spaces/Home/프로그래밍과 논리/수학적 귀납법 문제들/2. 연습 문제.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/프로그래밍과 논리/5. 수학적 귀납법.md",
+                "file": "Spaces/Home/프로그래밍과 논리/수학적 귀납법 문제들/2. 연습 문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/프로그래밍과 논리/5. 수학적 귀납법.md",
+                "file": "Spaces/Home/프로그래밍과 논리/수학적 귀납법 문제들/2. 연습 문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/프로그래밍과 논리/5. 수학적 귀납법.md"
+                "file": "Spaces/Home/프로그래밍과 논리/수학적 귀납법 문제들/2. 연습 문제.md"
               }
             }
           }
@@ -197,13 +197,22 @@
   },
   "active": "a0e5119ebb1992af",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-10 12.03.27.excalidraw.md",
+    "Spaces/Home/프로그래밍과 논리/수학적 귀납법 문제들/1. 버블 소팅의 증명.md",
+    "Spaces/Home/프로그래밍과 논리/수학적 귀납법 문제들/2. 연습 문제.md",
+    "Spaces/Home/프로그래밍과 논리/수학적 귀납법 문제들/@수학적귀납법 문제.md",
+    "Spaces/Home/프로그래밍과 논리/수학적 귀납법 문제들/@수학적 귀납법 문제들 DB.md",
+    "수학적귀납법문제.md",
+    "Spaces/Home/프로그래밍과 논리/4. Infinitely Many Prime Numbers.md",
     "Spaces/Home/프로그래밍과 논리/5. 수학적 귀납법.md",
+    "Spaces/Home/프로그래밍과 논리/수학적 귀납법 문제들/수학적 귀납법 문제들.md",
+    "템플릿/4. 수학적 귀납법 문제 템플릿.md",
+    "Spaces/Home/프로그래밍과 논리/프로그래밍과 논리.md",
+    "Spaces/Home/프로그래밍과 논리/수학적 귀납법 문제들",
+    "Spaces/Home/프로그래밍과 논리/무제 파일.md",
+    "Excalidraw/Drawing 2024-01-10 12.03.27.excalidraw.md",
     "Spaces/Home/프로그래밍과 논리/2. 용어 정리 및 문제풀이.md",
     "Spaces/Home/Home.md",
     "Spaces/Home/프로그래밍과 논리/3. 당구공 Paradox.md",
-    "Spaces/Home/프로그래밍과 논리/4. Infinitely Many Prime Numbers.md",
-    "Spaces/Home/프로그래밍과 논리/프로그래밍과 논리.md",
     "Spaces/Home/프로그래밍과 논리/1. 논리와 증명.md",
     "Spaces/Home/알고리즘문제풀이저장/알고리즘문제풀이저장.md",
     "Spaces/Home/알고리즘문제풀이저장/@알고리즘 문제풀이 저장.md",
@@ -215,16 +224,8 @@
     "템플릿/2. 새로 안 정보 템플릿.md",
     "템플릿/1. 알고리즘 문제풀이 템플릿.md",
     "undefined.md",
-    "Vault.md",
-    "Spaces/Spaces.md",
     "Spaces/Home/프로그래밍과 논리",
-    "Spaces/Home/알고리즘문제풀이저장/2072. 홀수만 더하기.md",
-    "Spaces/Home/알고리즘문제풀이저장/2068. 최대수 구하기.md",
-    "Spaces/Home/알고리즘문제풀이저장/2063. 중간값 찾기.md",
-    "Spaces/Home/알고리즘문제풀이저장/2058. 자릿수더하기.md",
     "Spaces/Home/알고리즘문제풀이저장",
-    "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/새로 안 정보.md",
-    "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보/8. 국제화.md",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/오류 정리",
     "Spaces/Home/Resource/4. 스프링 RestAPI만들기/새로 안 정보",
     "Spaces/Home/Resource/2. 스프링 공부 정리/3. 스프링 JPA",
@@ -232,7 +233,6 @@
     "Spaces/Home/Resource/2. 스프링 공부 정리/1. 스프링",
     "Spaces/Home/Resource/1. 자바 공부 정리/6. 함수형 프로그래밍",
     "Spaces/Home/Resource/1. 자바 공부 정리/5. 제네릭",
-    "Spaces/Home/Resource/1. 자바 공부 정리/4. 컬렉션과 자료구조",
     "1. 자바 공부 정리/Pasted image 20231226192646.png",
     "자바 공부 정리/Pasted image 20231226193340.png",
     "자바 공부 정리/Pasted image 20231226193030.png",
