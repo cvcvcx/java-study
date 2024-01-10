@@ -6,6 +6,7 @@
       {
         "id": "b275b4c06fa21bdd",
         "type": "tabs",
+        "dimension": 48.23588709677419,
         "children": [
           {
             "id": "59b848b446945ca6",
@@ -29,6 +30,21 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "3ae2619b6eff84c2",
+        "type": "tabs",
+        "dimension": 51.764112903225815,
+        "children": [
+          {
+            "id": "1451b57b3b4a9fb3",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 842.5,
-    "collapsed": true
+    "width": 232.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,7 +183,7 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "9f18a7342e00c0cb",
+  "active": "1451b57b3b4a9fb3",
   "lastOpenFiles": [
     "Spaces/Home/프로그래밍과 논리/4. Infinitely Many Prime Numbers.md",
     "Spaces/Home/프로그래밍과 논리/5. 수학적 귀납법.md",
